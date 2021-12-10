@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Ruby, Ruby on Rails
 - I know HTML5, CSS3, JavaScript (with Node) and React
 - 💞️ I’m looking to collaborate on Front-End projects
-- 📫 How to reach me ... 
+- 📫 How to reach me ... [Twitter](https://www.twitter.com/AfaqSanjar)/
 
 <!---
 sanjar-vimeo/sanjar-vimeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
